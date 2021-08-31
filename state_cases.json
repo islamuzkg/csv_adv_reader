@@ -1,0 +1,254 @@
+[
+  {
+    "state": "California",
+    "cases": 4326698
+  },
+  {
+    "state": "Texas",
+    "cases": 3572725
+  },
+  {
+    "state": "Florida",
+    "cases": 3246196
+  },
+  {
+    "state": "New York",
+    "cases": 2339058
+  },
+  {
+    "state": "Illinois",
+    "cases": 1508005
+  },
+  {
+    "state": "Georgia",
+    "cases": 1369926
+  },
+  {
+    "state": "Pennsylvania",
+    "cases": 1294730
+  },
+  {
+    "state": "Ohio",
+    "cases": 1211895
+  },
+  {
+    "state": "North Carolina",
+    "cases": 1189296
+  },
+  {
+    "state": "New Jersey",
+    "cases": 1088330
+  },
+  {
+    "state": "Michigan",
+    "cases": 1054709
+  },
+  {
+    "state": "Tennessee",
+    "cases": 1021578
+  },
+  {
+    "state": "Arizona",
+    "cases": 1007854
+  },
+  {
+    "state": "Indiana",
+    "cases": 843700
+  },
+  {
+    "state": "Virginia",
+    "cases": 758188
+  },
+  {
+    "state": "Missouri",
+    "cases": 754054
+  },
+  {
+    "state": "Massachusetts",
+    "cases": 753795
+  },
+  {
+    "state": "Wisconsin",
+    "cases": 727353
+  },
+  {
+    "state": "South Carolina",
+    "cases": 714265
+  },
+  {
+    "state": "Alabama",
+    "cases": 691451
+  },
+  {
+    "state": "Louisiana",
+    "cases": 679796
+  },
+  {
+    "state": "Minnesota",
+    "cases": 644190
+  },
+  {
+    "state": "Colorado",
+    "cases": 610127
+  },
+  {
+    "state": "Kentucky",
+    "cases": 562623
+  },
+  {
+    "state": "Washington",
+    "cases": 553487
+  },
+  {
+    "state": "Oklahoma",
+    "cases": 546257
+  },
+  {
+    "state": "Maryland",
+    "cases": 494982
+  },
+  {
+    "state": "Utah",
+    "cases": 459875
+  },
+  {
+    "state": "Arkansas",
+    "cases": 449383
+  },
+  {
+    "state": "Iowa",
+    "cases": 432982
+  },
+  {
+    "state": "Mississippi",
+    "cases": 427640
+  },
+  {
+    "state": "Nevada",
+    "cases": 386559
+  },
+  {
+    "state": "Connecticut",
+    "cases": 370708
+  },
+  {
+    "state": "Kansas",
+    "cases": 365773
+  },
+  {
+    "state": "Oregon",
+    "cases": 268401
+  },
+  {
+    "state": "Nebraska",
+    "cases": 242498
+  },
+  {
+    "state": "New Mexico",
+    "cases": 229509
+  },
+  {
+    "state": "Idaho",
+    "cases": 217887
+  },
+  {
+    "state": "West Virginia",
+    "cases": 184682
+  },
+  {
+    "state": "Rhode Island",
+    "cases": 161701
+  },
+  {
+    "state": "South Dakota",
+    "cases": 130776
+  },
+  {
+    "state": "Montana",
+    "cases": 125616
+  },
+  {
+    "state": "Delaware",
+    "cases": 119226
+  },
+  {
+    "state": "North Dakota",
+    "cases": 116838
+  },
+  {
+    "state": "New Hampshire",
+    "cases": 106525
+  },
+  {
+    "state": "Alaska",
+    "cases": 82880
+  },
+  {
+    "state": "Maine",
+    "cases": 75381
+  },
+  {
+    "state": "Wyoming",
+    "cases": 73467
+  },
+  {
+    "state": "Hawaii",
+    "cases": 62229
+  },
+  {
+    "state": "District Of Columbia",
+    "cases": 54556
+  },
+  {
+    "state": "Vermont",
+    "cases": 27972
+  },
+  {
+    "state": "Puerto Rico",
+    "cases": 169580
+  },
+  {
+    "state": "Guam",
+    "cases": 10239
+  },
+  {
+    "state": "United States Virgin Islands",
+    "cases": 5774
+  },
+  {
+    "state": "Northern Mariana Islands",
+    "cases": 183
+  },
+  {
+    "state": "American Samoa",
+    "cases": 4
+  },
+  {
+    "state": "US Military",
+    "cases": 341055
+  },
+  {
+    "state": "Veteran Affairs",
+    "cases": 312011
+  },
+  {
+    "state": "Federal Prisons",
+    "cases": 55662
+  },
+  {
+    "state": "Navajo Nation",
+    "cases": 32504
+  },
+  {
+    "state": "Grand Princess Ship",
+    "cases": 122
+  },
+  {
+    "state": "Wuhan Repatriated",
+    "cases": 3
+  },
+  {
+    "state": "Diamond Princess Ship",
+    "cases": 46
+  }
+]
